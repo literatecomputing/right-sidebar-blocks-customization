@@ -1,2 +1,12 @@
-example_setting:
-  default: true
+sidebar_image:
+  default: ""
+  description: "The image to display in the sidebar"
+  type: "upload"
+sidebar_heading_font_size:
+  default: 1.5
+  description: "The font size of the sidebar heading (in ems)"
+  type: "float"
+sidebar_heading_font_weight:
+  default: "bold"
+  description: "The font weight of the sidebar heading"
+  type: "string"
