@@ -3,10 +3,10 @@ sidebar_image:
   description: "The image to display in the sidebar"
   type: "upload"
 sidebar_heading_font_size:
-  default: 1.5
+  default: 1.2
   description: "The font size of the sidebar heading (in ems)"
   type: "float"
 sidebar_heading_font_weight:
-  default: "bold"
+  default: "700"
   description: "The font weight of the sidebar heading"
   type: "string"
