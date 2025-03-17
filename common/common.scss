@@ -28,4 +28,7 @@
     height: 100%; /* Makes the image fill the container's height */
     object-fit: cover; /* Ensures the image covers the container without distortion */
   }
+  a.category-topics--topic[href^="/t/about-the"] {
+    display: none;
+  }
 }
